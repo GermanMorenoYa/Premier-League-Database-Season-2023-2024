@@ -7,7 +7,7 @@ design and creation.
 
 ## ER Diagram
 
-![ER Diagram](ET_Diagram.png)
+![ER Diagram](ER_Diagram.png)
 
 ## Project Description
 
