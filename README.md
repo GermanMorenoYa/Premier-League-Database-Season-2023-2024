@@ -7,6 +7,7 @@ design and creation.
 
 #Project Description
 
+![ER Diagram](ET_Diagram.png)
 This project aims to provide a well-structured and accessible dataset for anyone interested in
 analyzing the Premier League. Whether you're a football enthusiast, a data scientist, or a student
 looking to improve your SQL skills, this database offers a valuable resource for conducting various analyses.
